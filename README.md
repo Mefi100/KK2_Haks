@@ -1,11 +1,7 @@
-Website: https://starwarsnwn.com
+Website: https:nwn.net.pl
 
-Discord: https://discord.gg/MyQAM6m
+Discord: https://discord.gg/NVQMR7JAdY
 
-Forums: https://forums.starwarsnwn.com
-
-This repository holds all of the hakpak content used on the Star Wars: Legends of the Old Republic server for Neverwinter Nights. 
-
-These files can be packed into hakpaks by running the "CompileSWLOR.exe" program. Simply run this, wait for it to finish and then find the packed files in the output folder.
+This repository holds all of the hakpak content used on the KK2 server for Neverwinter Nights (PL). This is a fork of Star Wars: Legends of the Old Republic hakpack. 
 
 If you have any questions or issues please contact us on the Discord.
