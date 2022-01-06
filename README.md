@@ -1,4 +1,4 @@
-Website: https:nwn.net.pl
+Website: https://nwn.net.pl
 
 Discord: https://discord.gg/NVQMR7JAdY
 
