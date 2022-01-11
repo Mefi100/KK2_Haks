@@ -1,0 +1,19 @@
+2DA V2.0
+
+   Name     Label       Cost ResRef           Craft      AmmoTypeHeavy AmmoTypeSling 
+0  16779683 Helium_S    0    d20_ammo_box_801 Chemical   802           803           
+1  16779684 Helium_M    0    d20_ammo_box_805 Chemical   806           807           
+2  16779685 Helium_L    0    d20_ammo_box_810 Chemical   811           ****          
+3  16779686 Bullets_9mm 0    d20_ammo_box_900 Chemical   ****          901           
+4  16779687 Rockets_x4  0    d20_ammo_box_905 Chemical   906           ****          
+5  16779688 Laser_S     0    d20_ammo_box_995 Electronic 994           996           
+6  16779689 Laser_M     0    d20_ammo_box_992 Electronic 991           993           
+7  16779690 Plasma_S    0    d20_ammo_box_951 Electronic 953           952           
+8  16779691 Plasma_M    0    d20_ammo_box_955 Electronic 956           957           
+9  16779692 Plasma_L    0    d20_ammo_box_815 Electronic 816           ****          
+10 16779693 Sonic_S     0    d20_ammo_box_651 Electronic 652           653           
+11 16779694 Sonic_M     0    d20_ammo_box_655 Electronic 657           656           
+12 16779695 Sonic_L     0    d20_ammo_box_808 Electronic 809           ****          
+13 16779696 Harpoon     0    d20_bolts_002    Chemical   ****          ****          
+14 16779697 Bolts       0    d20_bolts_001    Chemical   ****          ****          
+15 16779698 Arrows      0    d20_arrows_001   Mechanical ****          ****          

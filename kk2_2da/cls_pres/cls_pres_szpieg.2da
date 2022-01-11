@@ -1,0 +1,8 @@
+2DA V2.0
+
+      LABEL         ReqType   ReqParam1   ReqParam2   
+0     Atak          BAB       5           ****        
+1     Perswazja     SKILL     12          8           
+2     Blef          SKILL     23          8           
+3     Talent_Blef   FEAT      915         ****        
+4     Autorka       VAR       mf_szpieg   1           
